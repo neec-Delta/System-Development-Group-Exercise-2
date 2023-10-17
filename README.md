@@ -24,12 +24,13 @@ Delta
 ```md
 .
 └── doc/
-    ├── minutes
-    └── project-proposal
+│   ├── minutes
+│   └── project-proposal
+└── src/
 
 ```
 
 - `doc/` : ドキュメントを格納するディレクトリです。
   - `minutes/` : 議事録とそれに関連するファイルを格納するディレクトリです。
   - `project-proposal/` : 要件定義書とそれに関連するファイルを格納するディレクトリです。
-
+- `src/`: ソースコードを格納するディレクトリです。
