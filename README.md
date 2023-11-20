@@ -24,13 +24,51 @@ UIなどではこれを使ってください
 - [ディレクトリ構成](#ディレクトリ構成)
 
 
-# ディレクトリ構成
+# 主要ファイル構成
 ```md
 .
-└── doc/
-│   ├── minutes
-│   └── project-proposal
-└── src/
+│  README.md
+│
+└─doc
+    ├─minutes
+    │  └─2023-11-21
+    │          2023-11-21.md
+    │          請求書・領収書.md
+    │
+    └─project-proposal
+        │  Project Schedule.pdf
+        │  Requirements Definition Document ver1.10.pdf
+        │
+        ├─アクティビティ図
+        │
+        ├─ステートマシン図
+        │
+        ├─ユースケース図
+        │
+        └─画面レイアウト図
+                Check IN or OUT.png
+                Customer information change confirmation.png
+                Customer information change input.png
+                Customer information change search.png
+                Customer information deletion confirmation.png
+                Customer information deletion search.png
+                Customer information registration confirmation.png
+                Customer information registration input.png
+                Customer information.png
+                Employee information.png
+                Invoices or receipts.png
+                Login.png
+                Reservation Information.png
+                Room information change confirmation.png
+                Room information change input.png
+                Room information change search.png
+                Room information deletion confirmation.png
+                Room information deletion search.png
+                Room information registration confirmation.png
+                Room information registration input.png
+                Room information.png
+                Screen_UI_Requirements_Document.md
+                Side Ber.png
 
 ```
 
@@ -50,8 +88,8 @@ UIなどではこれを使ってください
 		1. 更新
 		1. 削除
 	1. 予約情報
-		1. 予約表示
-		1. 予約印刷
+		1. 予約登録
+		1. 予約検索(表示・印刷)
 	1. 請求書・領収書
 		1. 請求書
 		1. 領収書
