@@ -35,7 +35,7 @@
    - プラン料金
    - 領収書印刷
 
-   ![チェックイン-出力](./image/[CH03]CheckIN_output.png)
+   ![チェックイン-出力](./image/[CH03]CheckIN_confirmation.png)
 
 #### チェックアウト
 1. **入力画面**
@@ -46,7 +46,7 @@
    - 氏名
    - 領収書印刷
 
-   ![チェックアウト-出力](./image/[CH05]CheckOUT_output.png)
+   ![チェックアウト-出力](./image/[CH05]CheckOUT_confirmation.png)
 
 ### 顧客情報
 顧客情報のメニュー画面
