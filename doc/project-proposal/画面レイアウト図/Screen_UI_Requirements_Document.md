@@ -137,7 +137,7 @@
    - 宿泊日数
    - 朝食の有無
 
-   ![予約情報登録入力画面](./image/[ReI04]Reservation_information_input.png)
+   ![予約情報登録入力画面](./image/[ReI04]Reservation_information_registration_input.png)
 1. **予約情報登録確認画面**
    - 氏名
    - 日付
@@ -182,10 +182,6 @@
 印刷ボタンを押すと印刷プレビューが表示される。
 ![予約情報一覧表示画面](./image/[ReI11]Reservation_information_showlist.png)
 
-### 請求書・領収書
-基本的にはチェックイン・アウトのときに発行する
-- 請求書
-- 領収書
 
 ### 従業員情報
 氏名・フリガナは会社の従業員データベースから取ってくる
