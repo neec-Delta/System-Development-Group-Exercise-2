@@ -24,7 +24,7 @@
 ![チェックイン・チェックアウト](./image/[CH01]CheckIN_or_OUT.png)
 #### チェックイン
 1. **入力画面**
-   - お名前
+   - 氏名
    - 電話番号
    - メールアドレス
 
@@ -53,7 +53,7 @@
 ![顧客情報](./image/[CI01]Customer_information.png)
 #### 登録
 1. **入力画面**
-   - 名前
+   - 氏名
    - ふりがな
    - 電話番号
    - メールアドレス
@@ -63,7 +63,7 @@
 
    ![顧客情報-登録-入力](./image/[CI02]Customer_information_registration_input.png)
 1. **確認画面**
-   - 名前
+   - 氏名
    - ふりがな
    - 電話番号
    - メールアドレス
@@ -80,7 +80,7 @@
 
    ![顧客情報-更新-検索](./image/[CI04]Customer_information_change_search.png)
 1. **入力画面**
-   - 名前
+   - 氏名
    - ふりがな
    - 電話番号
    - メールアドレス
@@ -90,7 +90,7 @@
 
    ![顧客情報-更新-入力](./image/[CI05]Customer_information_change_input.png)
 1. **確認画面**
-   - 名前
+   - 氏名
    - ふりがな
    - 電話番号
    - メールアドレス
@@ -107,7 +107,7 @@
 
    ![顧客情報-更新-検索](./image/[CI07]Customer_information_deletion_search.png)
 1. **確認画面**
-   - 名前
+   - 氏名
    - ふりがな
    - 電話番号
    - メールアドレス
@@ -173,7 +173,14 @@
 ![予約情報削除確認画面](./image/[ReI09]Reservation_information_deletion_confirmation.png)
 
 
-#### 予約検索(表示・印刷)
+#### 予約表示・印刷
+1. **予約情報一覧検索画面**<br>
+日付を開始日と終了日で選択する
+![予約情報一覧検索画面](./image/[ReI10]Reservation_information_show_search.png)
+1. **予約情報一覧表示画面**<br>
+予約情報一覧検索画面で選択した日付の予約を一覧で表示。<br>
+印刷ボタンを押すと印刷プレビューが表示される。
+![予約情報一覧表示画面](./image/[ReI11]Reservation_information_showlist.png)
 
 ### 請求書・領収書
 基本的にはチェックイン・アウトのときに発行する
