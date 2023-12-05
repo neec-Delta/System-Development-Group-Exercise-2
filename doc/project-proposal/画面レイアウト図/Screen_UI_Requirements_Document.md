@@ -349,7 +349,7 @@
 - 削除ボタン<br>
    [顧客情報画面](#顧客情報画面)
 - 戻るボタン<br>
-   [顧客情報削除確認画面](#顧客情報削除確認画面)
+   [顧客情報削除検索画面](#顧客情報削除検索画面)
 
 ![顧客情報-変更-確認](./image/[CI08]Customer_information_deletion_confirmation.png)
 
@@ -434,9 +434,9 @@
 
 **画面遷移先**
 - 登録ボタン<br>
-	[予約情報登録入力画面](#予約情報登録入力画面)
-- 戻るボタン<br>
 	[予約情報画面](#予約情報画面)
+- 戻るボタン<br>
+	[予約情報登録入力画面](#予約情報登録入力画面)
 
 ![予約情報登録確認画面](./image/[ReI05]Reservation_information_registration_confirmation.png)
 
@@ -489,7 +489,7 @@
 - 変更<br>
 	[予約情報画面](#予約情報画面)
 - 戻る<br>
-	[予約情報変更画面](予約情報変更画面)
+	[予約情報変更画面](#予約情報変更画面)
 
 ![予約情報変更確認画面](./image/[ReI08]Reservation_information_change_confirmation.png)
 
